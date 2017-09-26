@@ -1,0 +1,3 @@
+if %% is clicked:
+  return "error, can't find that"
+  
